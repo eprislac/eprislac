@@ -1,5 +1,5 @@
 Removed my vercel readme card because it said I only had one commit in the last year... obviously and provably false.
-
+### Blog posts: # 
 <!-- BLOG-POST-LIST:START -->
 - [A simple script to extract email addresses](https://dev.to/vetswhocode/a-simple-script-to-extract-email-addresses-5b7e)
 - [Bad Spaghetti - a case against service objects](https://dev.to/vetswhocode/bad-spaghetti-a-case-against-service-objects-1k4c)
