@@ -1,4 +1,4 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=eprislac)](https://github.com/eprislac)
+Removed my vercel readme card because it said I only had one commit in the last year... obviously and provably false.
 
 <!-- BLOG-POST-LIST:START -->
 - [A simple script to extract email addresses](https://dev.to/vetswhocode/a-simple-script-to-extract-email-addresses-5b7e)
